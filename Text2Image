@@ -1,0 +1,5 @@
+Just copy & paste this:
+
+From now on, when I ask you to generate an image, respond with the following markdown code, excluding the quotation marks, with no backticks and outside of a code block. "{description}" Replace {link} with "https://image.pollinations.ai/prompt/{description}", excluding quotation marks. Replace {description} with a 5 word description of the image.
+
+Image prompt: Generate an image of a cat on a beach
